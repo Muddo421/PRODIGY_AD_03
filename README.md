@@ -7,6 +7,10 @@ This is a simple stopwatch app for Android that allows users to start, pause, an
 - Start, pause, and reset the stopwatch
 - Displays minutes, seconds, and milliseconds
 
+## Screenshot:
+![Screenshot 2024-08-02 220251](https://github.com/user-attachments/assets/e0c59ad8-7e37-4280-9e1b-11bdba53c0f9)
+
+
 ## Requirements
 
 - Android Studio
